@@ -1,0 +1,26 @@
+#customize-controls .control-section-unisco-pro .accordion-section-title:hover,
+#customize-controls .control-section-unisco-pro .accordion-section-title:focus {
+    background-color: #fff;
+}
+
+#accordion-panel-unisco-pro-options .accordion-section-title,
+#accordion-panel-unisco-pro-options .accordion-section-title:hover,
+#accordion-panel-unisco-pro-options .accordion-section-title:focus {
+    background-color: rgba(121, 150, 155, 0.3);
+}
+
+.control-section-unisco-pro .accordion-section-title .button {
+    margin-top: 8px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+.control-section-unisco-pro .accordion-section-title .customize-action {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.rtl .control-section-unisco-pro .accordion-section-title .button {
+    margin-left:  0;
+    margin-right: 8px;
+}

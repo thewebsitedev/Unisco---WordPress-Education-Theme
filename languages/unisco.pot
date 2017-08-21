@@ -1,0 +1,440 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: UNISCO\n"
+"POT-Creation-Date: 2017-08-14 14:16+0530\n"
+"PO-Revision-Date: 2017-06-17 19:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:37
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:38
+msgid "Maybe try one of the links from below or another search?"
+msgstr ""
+
+#: 404.php:53
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:70
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: %s: Total number of comments.
+#: comments.php:37
+#, php-format
+msgid "Comments (%s)"
+msgstr ""
+
+#: comments.php:43
+msgid "Write a Comment"
+msgstr ""
+
+#: comments.php:53 comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56 comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:57 comments.php:75
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:98
+msgid "Full Name"
+msgstr ""
+
+#: comments.php:101
+msgid "Email ID"
+msgstr ""
+
+#: comments.php:104
+msgid "Website URL"
+msgstr ""
+
+#. translators: %s: Author of the comment being replied to.
+#: comments.php:115
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:116
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:117
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:120
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#. translators: %s: Login URL.
+#: comments.php:125
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. translators: %1$s: Logged in user's profile URL. %2$s: Logged in user's name. %3$s: Log out URL.
+#: comments.php:132
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:242
+msgid "No image selected"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:246
+msgid "Default"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:248
+msgid "Select Image"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:258
+msgid "Remove"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:260
+msgid "Change Image"
+msgstr ""
+
+#: customizer/sections/slider.php:34
+msgid "Front Slider"
+msgstr ""
+
+#: customizer/sections/slider.php:40
+msgid ""
+"Allows you to customize the slider on the front page. This slider will "
+"appear only when the front page is set to latest posts."
+msgstr ""
+
+#: customizer/sections/slider.php:61
+msgid "Enable Front Slider"
+msgstr ""
+
+#: customizer/sections/slider.php:71
+msgid "No"
+msgstr ""
+
+#: customizer/sections/slider.php:72
+msgid "Yes"
+msgstr ""
+
+#: customizer/sections/slider.php:111
+msgid "Slides"
+msgstr ""
+
+#: customizer/sections/slider.php:112
+msgid "Add more and more and more..."
+msgstr ""
+
+#: footer.php:46
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:48
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:53
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:57
+msgid "Top Left"
+msgstr ""
+
+#: functions.php:58
+msgid "Top Right"
+msgstr ""
+
+#: functions.php:116
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:118
+msgid "This is the default sidebar."
+msgstr ""
+
+#: functions.php:125
+msgid "Course"
+msgstr ""
+
+#: functions.php:127
+msgid "This sidebar will be shown on single course page."
+msgstr ""
+
+#: functions.php:134
+msgid "Footer"
+msgstr ""
+
+#: functions.php:136
+msgid "Add widgets here."
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: functions.php:155
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Unisco Pro"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Go Pro"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Courses, Events & more"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Display Site Title"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Display Site Tagline"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer.php:286
+msgid "Footer Heading Color"
+msgstr ""
+
+#: inc/customizer.php:310
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Mobile Logo"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid "This logo will appear on small screens."
+msgstr ""
+
+#: inc/customizer.php:352
+msgid "Unisco Lite"
+msgstr ""
+
+#: inc/extras.php:31
+msgid "Add a menu"
+msgstr ""
+
+#: inc/extras.php:81
+msgid "Read More"
+msgstr ""
+
+#: inc/extras.php:88
+msgid "Search for:"
+msgstr ""
+
+#: inc/extras.php:89 inc/extras.php:90
+msgid "Search"
+msgstr ""
+
+#: inc/extras.php:117
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-functions.php:177
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-functions.php:187 inc/template-functions.php:189
+#: template-parts/header/header-slider.php:84
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:199 inc/template-functions.php:201
+#: template-parts/header/header-slider.php:88
+msgid "Next"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29 inc/template-tags.php:69
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:35 inc/template-tags.php:75
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:92 inc/template-tags.php:126
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:99 inc/template-tags.php:133
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:109 template-parts/content-page.php:37
+#: template-parts/content-quote.php:36
+msgid "Edit"
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:129
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:136
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:146
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:162
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "No posts to show"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-page.php:52 template-parts/content-quote.php:51
+#: template-parts/content.php:57
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-page.php:63 template-parts/content-quote.php:62
+#: template-parts/content.php:68
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: search query.
+#: template-parts/content-title.php:8
+#: template-parts/header/header-title.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-title.php:13
+#: template-parts/header/header-title.php:26
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "UNISCO"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://snapthemes.io/unisco/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A theme for schools, colleges, universities or other educational "
+"institutions."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SnapThemes, gautamanizer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://snapthemes.io/"
+msgstr ""
